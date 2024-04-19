@@ -1,0 +1,967 @@
+{
+  "HOME": {
+    "NAVBAR_BTN": {
+      "LOGIN": "Giriş Yap",
+      "REGISTER": "Hemen Kayıt Ol",
+      "MYCLASSES": "Sınıflarım",
+      "LOGOUT": "Çıkış Yap"
+    },
+    "MENU": {
+      "HOME": "Ana Sayfa",
+      "SERVICES": "Servisler",
+      "TEAM": "Takımımız",
+      "CONTACT": "İletişim"
+    },
+    "CARDS": {
+      "CARD1": {
+        "CATEGORY": "Hızlı Değerlendirme",
+        "TITLE": "En hızlı şekilde kontrolden geçirin",
+        "DESC": "Verdiğiniz ödevleri yapay zeka desteği sayesinde hızlı bir şekilde değerlendirin. Size sadece dosya indirmek ve değerlendirmek düşüyor.",
+        "VIDEO": "Hızlı Değerlendirme Nasıl Yapılır?"
+      },
+      "CARD2": {
+        "CATEGORY": "En Doğru Sonuç",
+        "TITLE": "En hızlı ve en doğru sonucu alın",
+        "DESC": "Ödevlerin herbirini tek tek açıp kontrol etmekten kurtulun. Bunu sizin yerinize yapay zeka yapsın ve en doğru notları versin.",
+        "VIDEO": "En Doğru Sonuç Nasıl Alınır?"
+      },
+      "CARD3": {
+        "CATEGORY": "Kolay ve Kullanışlı",
+        "TITLE": "Kolay ve kullanışlı bir sistemi keşfedin",
+        "DESC": "Kolayca ödevler verilebilir, öğrenciler ödevleri yükler ve puanlar otomatik olarak verilir. Siz sadece not dosyasını indireceksiniz.",
+        "VIDEO": "Kolay ve Kullanışlı Nasıl Kullanılır?"
+      }
+    },
+    "SERVICES": {
+      "CARD1": {
+        "TITLE": "Ödev Kontrolü",
+        "DESC": "Siz sadece ödevi verin, kontrolü sizin için yapay zeka halletsin. Bu sayede kendinize ve öğrencilerinize daha fazla vakit ayırın."
+      },
+      "CARD2": {
+        "TITLE": "Quiz Oluşturma",
+        "DESC": "Yapay zeka desteği ile quiz oluşturmak için saatlerinizi harcamanıza gerek yok. Herhangi bir konu, link, dosya verin ve quizi sizin için yapay zeka oluştursun."
+      },
+      "CARD3": {
+        "TITLE": "İtiraz Sistemi",
+        "DESC": "Öğrencileriniz notlandırma veya sınavla alakalı herhangi bir problem olduğunda anında size ulaşabilecekler. Öğrencileriniz ile iletişiminizi daha da hızlandırın."
+      }
+    },
+    "ABOUT_US": {
+      "CARD1": {
+        "TITLE": "IntelliGrade Neden En İyisi?",
+        "DESC": "yapay zeka desteği ile ödevleri hızlı bir şekilde değerlendirebilir. Yapay zeka algoritmaları, öğrencilerin ödevlerini analiz ederek otomatik olarak puanlama yapabilir ve değerlendirme sürecini hızlandırabilir. Bu sayede öğretmenlerin zamanını tasarruf etmelerine olanak sağlar."
+      },
+      "CARD2": {
+        "TITLE": "Yapay Zeka Destekli Quiz Sistemi",
+        "DESC": "öğretmenlere öğrencilerine interaktif ve etkileşimli bir şekilde quizler hazırlama imkanı sunan gelişmiş bir araçtır. Bu sistem, öğretmenlerin belirli konuları girmesine olanak tanır ve yapay zeka algoritmalarıyla bu konulara dayalı özelleştirilmiş quizler oluşturur."
+      },
+      "CARD3": {
+        "TITLE": "Yapay Zeka Destekli Ödev Sistemi",
+        "DESC": "öğretmenlere ve öğrencilere kullanıcı dostu, etkili ve güvenilir bir ödev yönetimi deneyimi sunan yenilikçi bir araçtır. Bu sistem, öğretmenlere ödevleri tanımlama, atama ve takip etme konusunda kolaylık sağlar. Öğrenciler ise ödevlerini yükleme, düzenleme ve takip etme imkanına sahip olurlar."
+      },
+      "CARD4": {
+        "TITLE": "Yapay Zeka Destekli Bildirim Sistemi",
+        "DESC": "öğrencilere akademik çalışmalarında yardımcı olmak amacıyla sınıflarına ve verilen ödevlere göre uygun sorular, akademik makaleler ve araştırma siteleri öneren yenilikçi bir sistemdir. Bu sistem, öğrencilerin daha etkili bir şekilde öğrenmelerini ve bilgi edinmelerini desteklemek için yapay zeka algoritmalarını kullanır."
+      },
+      "TEXT": "Hakkımızda",
+      "MAIN_TITLE": "Bizi En İyi Yapan Şey Ne?",
+      "MAIN_DESC": "Bizi en iyi yapan şey, öğretmenlere ve öğrencilere kullanıcı dostu, etkili ve güvenilir bir ödev yönetimi deneyimi sunmaktır. İşte bizi diğer sistemlerden ayıran bazı özellikler: Kapsamlı Ödev Yönetimi Kapsamında öğretmenler ödevleri kolayca tanımlayabilir, öğrencilere atayabilir ve son teslim tarihlerini belirleyebilir. Öğrenciler ise ödevlerini sisteme yükleyebilir ve gerektiğinde düzenleme yapabilir. Yapay Zeka Destekli Hızlı Değerlendirme Kapsamında Yapay zeka algoritmaları öğrenci ödevlerini otomatik olarak analiz eder ve hızlı bir şekilde değerlendirir. Bu sayede öğretmenler daha az zaman harcar ve öğrenciler hızlı geri bildirim alır."
+    },
+    "INFO": {
+      "ASSIGNMENT": "Adet Ödev",
+      "QUIZ": "Adet Quiz",
+      "STUDENT": "Kayıtlı Öğrenci",
+      "TEACHER": "Kayıtlı Öğretmen"
+    },
+    "CONTACT": {
+      "TITLE": "İletişime Geç",
+      "SUB_TITLE": "Bizimle her daim iletişime geçebilirsiniz",
+      "FORM": {
+        "NAME": "Ad Soyad",
+        "EMAIL": "E-posta",
+        "MESSAGE": "Mesaj"
+      },
+      "DESC": "Projemize katkı sunmak, fikirlerinizi paylaşmak veya herhangi bir soru sormak için bize ulaşmanızdan mutluluk duyarız. Öğretmenlerimize ve öğrencilerimize kullanıcı dostu, etkili ve güvenilir bir eğitim yönetimi deneyimi sunmayı hedefliyoruz ve bu süreçte sizin geri bildirimleriniz çok değerli.",
+      "SEND": "Mesaj Gönder"
+    },
+    "FOOTER": {
+      "COPYRIGHT": "Copyright © 2023 IntelliGrade Organizasyonu. Tüm hakları saklıdır."
+    },
+    "PAGE_TITLE": "IntelliGrade | Anasayfa"
+  },
+  "LOGIN": {
+    "PLEASE_TRY_LATER": "Lütfen daha sonra tekrar deneyiniz",
+    "EMAIL_ERROR": {
+      "MESSAGE": "Email Alanı Boş Bırakılamaz",
+      "CONTENT": "Lütfen geçerli bir email adresi giriniz"
+    },
+    "CAROUSEL": {
+      "STEP1": {
+        "TITLE": "Tüm ihtiyaçlarınızı tek bir platformda karşılayın",
+        "DESC": "Sınıfınızın tüm ihtiyaçlarını tek bir platformda karşılayın. Öğrencilerinize ödevler verin, quizler oluşturun, notlarınızı paylaşın ve daha fazlasını yapın."
+      },
+      "STEP2": {
+        "TITLE": "Takıldığın Yerlerde Yapay Zeka Asistanın Var",
+        "DESC": "Ödevinizi göndermeden önce yapay zeka asistanınızın kontrolünden geçirin. Yapay zeka asistanınız ödevinizi kontrol ederek eksiklerinizi ve hatalarınızı size bildirsin."
+      },
+      "STEP3": {
+        "TITLE": "Tüm Cihazlarınızdan İşlemlerinize Devam Edin",
+        "DESC": "Hem web hem de mobil uygulamalarımız ile tüm cihazlarınızdan sınıfınızı yönetin. Hem öğretmen hem de öğrenci olarak tüm işlemlerinizi kolayca yapın."
+      }
+    },
+    "WELCOME": "Hoşgeldin!",
+    "TOCONTINUE": "Devam etmek için giriş yapın",
+    "EMAIL_ADDRESS": "Email Adresi",
+    "PASSWORD": "Parola",
+    "FORGOT_PASSWORD": "Şifreni mi unuttun?",
+    "REMEMBER_ME": "Beni Hatırla",
+    "LOGIN": "Giriş Yap",
+    "DONT_HAVE_ACCOUNT": "Hesabın yok mu?",
+    "CREATE_NOW": "Şimdi Oluştur",
+    "OR": "ya da",
+    "TOCONTINUEREGISTER": "Devam etmek için hesap oluştur",
+    "NAME": "Ad",
+    "SURNAME": "Soyad",
+    "PASSWORD_AGAIN": "Parola (Tekrar)",
+    "REGISTER": "Kayıt Ol",
+    "ALREADY_HAVE_ACCOUNT": "Zaten bir hesabın var mı?",
+    "LOGIN_NOW": "Şimdi Giriş Yap"
+  },
+  "LOGIN_REGISTER": {
+    "LOGIN": "Giriş Yap",
+    "REGISTER": "Kayıt Ol",
+    "EMAIL": "Eposta",
+    "PASSWORD": "Parola",
+    "REPASSWORD": "Parola Tekrar",
+    "NAME": "Ad",
+    "SURNAME": "Soyad",
+    "LOGIN_TITLE": "Buralarda Yeni Misin?",
+    "LOGIN_DESC": "Seni aramızda görmekten mutluluk duyarız. Hemen kayıt ol ve bizimle birlikte ol.",
+    "REGISTER_TITLE": "Zaten Hesabın Var Mı?",
+    "REGISTER_DESC": "Hemen giriş yap ve IntelliGrade'in benzersiz özelliklerinin keyfini çıkar.",
+    "PAGE_TITLE": "Giriş Yap | Kayıt Ol",
+    "FORGOT_PASSWORD": "Parolanızı mı unuttunuz?"
+  },
+
+  "FORGOT_PASSWORD": {
+    "TITLE": "Şifremi Unuttum",
+    "EMAIL": "E-posta",
+    "SEND_MAIL": "Şifre Sıfırlama Maili Gönder"
+  },
+
+  "RESET_PASSWORD": {
+    "TITLE": "Parolayı Sıfırla",
+    "NEW_PASSWORD": "Yeni Parola",
+    "NEW_PASSWORD_AGAIN": "Yeni Parola (Tekrar)",
+    "RESET": "Sıfırla"
+  },
+
+  "CLASSES": {
+    "EMPTY": "Size ait bir sınıf bulamadık, bir sınıfa katılın veya yeni bir sınıf oluşturun!",
+    "OR": "veya",
+    "CLASS_NAME": "Sınıf Adı",
+    "COLOR_PALETTE": "Renk Paleti",
+    "PROTECTED_CLASS": "Korumalı Sınıf",
+    "PROTECTED_CLASS_DESC": "Korumalı sınıflarda sınıf kodu ile katılmak isteyen öğrenciler sizin kabul etmeniz durumunda sınıfa dahil olacaklardır",
+    "CREATE_NOW": "Hemen Oluştur",
+    "JOIN_CLASS": "Sınıfa Katıl",
+    "CREATE_CLASS": "Sınıf Oluştur",
+    "CANCEL": "İptal Et",
+    "CREATE": "Oluştur",
+    "JOIN": "Katıl",
+    "CREATE_CLASS_PLACEHOLDER": "Sınıf ismi (max 50 karakter)",
+    "JOIN_CLASS_PLACEHOLDER": "Sınıf kodu",
+    "PAGE_TITLE": "Sınıflarım"
+  },
+
+  "CLASS_FILES": {
+    "SEARCH": "Dosya arayın...",
+    "NOT_FOUND": "Dosya bulunamadı",
+    "WAIT": "Lütfen bekleyiniz...",
+    "ADD_SUCCESS": "Klasör başarıyla eklendi!",
+    "ADD_FOLDER": "Klasör Ekle",
+    "ENTER_FOLDER_NAME": "Klasör ismi giriniz...",
+    "USED_AREA": "Kullanılan Alan",
+    "UNUSED_AREA": "Kullanılabilir Alan",
+    "OPEN": "Aç",
+    "DOWNLOAD": "İndir"
+  },
+
+  "CONFIRM_USER": {
+    "EMAIL_CONFIRM": "Email Onaylandı",
+    "ERROR": "Hata Oluştu",
+    "EMAIL_CONFIRMING": "Email Onaylanıyor..."
+  },
+
+  "CLASS": {
+    "CREATE_ASSIGNMENT": "Ödev Oluştur",
+    "CREATE_QUIZ": "Quiz Oluştur",
+    "EMPTY": "Hoşgeldin, henüz bu sınıfa ait bir etkinlik bulamadık.",
+    "UPCOMING": "Teslim Tarihi Yaklaşan Aktiviteler",
+    "TYPES": {
+      "ASSIGNMENT": "Ödev",
+      "QUIZ": "Quiz",
+      "SURVEY": "Anket",
+      "POST": "Gönderi"
+    },
+    "ASSIGNMENT_CARD": {
+      "DEFINITION": "Ödev Tanımı",
+      "DESC": "Ödev Açıklaması",
+      "FILE": "Ödev Dosyası",
+      "FILE_NOT_FOUND": "Dosya eklenmedi.",
+      "COMMENT": "Sınıf Yorumu"
+    },
+    "CREATE": "Oluştur",
+    "ASSIGNMENT_NOT_FOUND": "Ödev bulunamadı",
+    "CLASSES": "Sınıflarım",
+    "SEE_ALL": "Tümünü Göster",
+    "SHARE_ANYTHING": "Sınıfınızla birşeyler paylaşın...",
+    "SHARE_SURVEY": "Anket Paylaş",
+    "CREATE_ASSIGNMENT_FORM": {
+      "TEXT": "Ödev Oluştur",
+      "TITLE": "Başlık",
+      "DEFINITION": "Tanım",
+      "DESC": "Açıklama",
+      "REQUIREMENTS": "Gereksinimler (max 60 karakter)",
+      "DEADLINE": "Son Teslim Tarihi",
+      "SELECT_FILE": "Dosya seç",
+      "SELECT_TYPE": "Ödev Türünü Seçiniz",
+      "AI_TYPE": "Yapay Zeka Destekli Ödev",
+      "AI_TYPE_DESC": "Otomatik ödev kontrolü, ödev test etme gibi özellikleri içeririr",
+      "NORMAL_TYPE": "Normal Ödev",
+      "NORMAL_TYPE_DESC": "Herhangi bir yapay zeka desteği olmayan ödev türüdür.",
+      "OBJECTION_TEACHERS": "İtiraz Öğretmenleri"
+    },
+    "CREATE_POST": {
+      "FILE_SIZE_ERROR": "Dosya boyutu çok büyük, en fazla 50MB dosya yükleyebilirsiniz!",
+      "EMPRT_POST_ERROR": "Lütfen post oluşturmak için içerik giriniz",
+      "ENTER_HERE": "İçeriğinizi buraya yazınız"
+    },
+    "CREATE_QUIZ_FORM": {
+      "TITLE": "Başlık",
+      "START_DATE": "Başlangıç Tarihi",
+      "END_DATE": "Bitiş Tarihi",
+      "DURATION": "Sınav Süresi (dakika) (Süresiz için 0)",
+      "QUESTION_COUNT": "Soru Sayısı",
+      "TOPICS": "Konular",
+      "TOPIC_NAME": "Konu ismi (max 30 karakter)",
+      "LEVEL": "Zorluk Seviyesi",
+      "EASY": "Kolay",
+      "NORMAL": "Normal",
+      "HARD": "Zor",
+      "VERY_HARD": "Çok Zor",
+      "ENTER_START_DATE": "Lütfen başlangıç tarihini giriniz.",
+      "ENTER_END_DATE": "Lütfen bitiş tarihini giriniz.",
+      "ADD_TOPIC": "Lütfen konu ekleyiniz.",
+      "ENTER_TITLE": "Lütfen başlık giriniz",
+      "SELECT_TEACHER": "Lütfen itiraz öğretmeni seçiniz.",
+      "TIME": "Süre (dakika)",
+      "WITHOUT_TIME": "Süresiz",
+      "WITH_TIME": "Süreli",
+      "OBJECTION_TEACHERS": "İtiraz Öğretmenleri"
+    },
+    "CREATE_SURVEY": {
+      "FILL_QUESTION": "Lütfen soru alanını doldurunuz",
+      "ENTER_ANSWER": "Lütfen en az 2 cevap giriniz",
+      "FILL_DATE": "Lütfen tarih alanını doldurunuz",
+      "ENTER_VALID_DATE": "Lütfen geçerli bir tarih giriniz",
+      "SHARE_SUCCESS": "Anket başarıyla paylaşıldı!",
+      "ERROR": "Bir hata oluştu, lütfen tekrar deneyiniz",
+      "QUESTION": "Anket Sorusu",
+      "QUESTION_PLACEHOLDER": "Anket sorunuzu buraya giriniz...",
+      "ANSWERS": "Anket Cevapları",
+      "ANSWERS_PLACEHOLDER": "Anket cevabınızı buraya giriniz...",
+      "END_DATE": "Bitiş Tarihi",
+      "MULTI_ANSWER": "Birden Fazla Cevap Verilebilsin",
+      "SEE_RESULT": "Öğrenciler Sonucu Görebilsin",
+      "ANONYMOUS": "Anonim Anket",
+      "ANSWER_ALREADY_EXISTS": "Bu cevap zaten eklenmiş"
+    },
+    "POST_CARD": {
+      "DELETE_POST": "Postu Sil",
+      "DELETE_POST_DESC": "Bu postu silerseniz bu veriye tekrar ulaşamayabilirsiniz, devam etmek istiyor musunuz?",
+      "BAD_USE": "Kötüye Kullanım Bildir",
+      "TIMES": {
+        "NOW": "Şimdi",
+        "MINUTE_AGO": "dakika önce",
+        "HOUR_AGO": "saat önce",
+        "DAY_AGO": "gün önce"
+      },
+      "COMMENT": "Sınıf Yorumu"
+    },
+    "POST_MODAL": {
+      "TITLE": "İçerik Paylaş",
+      "SHARE": "Paylaş"
+    },
+    "QUIZ_CARD": {
+      "INSPECT": "Quizi İncele",
+      "BAD_USE": "Kötüye Kullanım Bildir",
+      "DELETE": "Quizi Sil",
+      "DELETE_QUIZ_TITLE": "Bu quizi silmek istediğinizden emin misiniz?",
+      "DELETE_QUIZ_DESC": "Eğer quizi silerseniz verilerine bir daha erişemeyebilirsiniz, devam etmek istiyor musunuz?",
+      "DELETE_QUIZ": "Quizi Sil",
+      "CANCEL": "İptal Et",
+      "MINUTE": "dakika",
+      "WITHOUT_TIME": "Süresiz",
+      "COMMENT": "Sınıf Yorumu"
+    },
+    "SURVEY_CARD": {
+      "DETAIL": "Anket Detayları",
+      "DELETE": "Anketi Sil",
+      "DELETE_DESC": "Bu anketi silerseniz bir daha bu verilere erişemeyebilirsiniz, devam etmek istiyor musunuz?",
+      "DELETE_SUCCESS": "Silme işlemi başarıyla gerçekleştirildi",
+      "DELETE_ERROR_TITLE": "Silme İşlemi Başarısız",
+      "DELETE_ERROR_DESC": "Anketi silerken bir hata oluştu, lütfen tekrar deneyiniz",
+      "VOTED": "Kişi Cevap Verdi",
+      "REMOVE_ANSWER": "Cevabımı Kaldır",
+      "ADD_ANSWER": "Cevapla"
+    },
+    "PAGE_TITLE": "Sınıf Çalışmaları"
+  },
+
+  "CREATE_ASSIGNMENT_OBJECTION": {
+    "DATA_ERROR": "Ödev veya sınıf verisi alınamadı",
+    "ENTER_DATA": "Lütfen gerekli bilgileri doldurunuz",
+    "CREATE_SUCCESS": "İtiraz kaydı başarıyla oluşturuldu",
+    "ERROR": "Hata Oluştu",
+    "CREATE_OBJECTION": "İtiraz Oluştur",
+    "REASON": "İtiraz Nedeni",
+    "REASON_PLACEHOLDER": "İtiraz etme sebebinizi kısaca yazınız...",
+    "DESC": "İtiraz Açıklaması",
+    "DESC_PLACEHOLDER": "İtiraz hakkında detaylı açıklamayı burada yapınız...",
+    "TEACHER": "İtirazı Değerlendirecek Öğretmen",
+    "TEACHER_PLACEHOLDER": "Bir öğretmen seçiniz...",
+    "ASSIGNMENT_DETAIL": "Ödev Detayı",
+    "ASSIGNMENT_DEFINITION": "Ödev Tanımı",
+    "ASSIGNMENT_DESC": "Ödev Açıklaması",
+    "YOUR_WORK": "Çalışmanız",
+    "GIVEN_NOTE": "Verilen Not"
+  },
+
+  "CREATE_QUIZ_OBJECTION": {
+    "QUESTION": "Soru",
+    "VALIDATION_ERROR": "Lütfen gerekli alanları doldurunuz",
+    "VALIDATION_ERROR_CLASS_OR_TEACHER": "Sınıf veya öğretmen bilgisi alınamadı",
+    "CREATE_SUCCESS": "İtiraz kaydı başarıyla oluşturuldu",
+    "ERROR": "Hata Oluştu",
+    "CREATE_OBJECTION": "İtiraz Oluştur",
+    "ADDED_QUESTION": "İtiraza eklenen sorular",
+    "REASON": "İtiraz Nedeni",
+    "REASON_PLACEHOLDER": "İtiraz etme sebebinizi kısaca yazınız...",
+    "DESC": "İtiraz Açıklaması",
+    "DESC_PLACEHOLDER": "İtiraz hakkında detaylı açıklamayı burada yapınız...",
+    "TEACHER": "İtirazı Değerlendirecek Öğretmen",
+    "QUIZ_OBJECTİON_DESC": "Quiz itirazları soru bazlı oluşturulmaktadır. Lütfen bir itiraz oluşturmak için yan taraftan soru seçiniz.",
+    "CHOOSE_QUESTION": "Soru Seçin"
+  },
+
+  "ERROR": {
+    "TEXT": "Server tarafında bir problem oluştu. Lütfen bizimle iletişime geçin",
+    "BUTTON": "Ana Sayfa",
+    "PAGE_TITLE": "Hata"
+  },
+
+  "LAYOUT": {
+    "NAVBAR": {
+      "HOME": "Akış",
+      "CLASSES": "Sınıflarım",
+      "STUDENTS": "Öğrenciler",
+      "CREATE_QUIZ": "Quiz Oluştur",
+      "QUIZ_RESULT": "Quiz Sonuçları",
+      "ASSIGNMENTS": "Ödevler",
+      "CREATE_CLASS": "Sınıf Oluştur",
+      "JOIN_CLASS": "Sınıfa Katıl",
+      "LOGOUT": "Çıkış Yap",
+      "MY_PROFILE": "Profilim",
+      "SETTINGS": "Ayarlar"
+    }
+  },
+
+  "NOTE_LIST": {
+    "TABLE": {
+      "COLUMNS": {
+        "NAME": "Ad Soyad",
+        "STATUS": "Durum",
+        "NOTE": "Not",
+        "AI_NOTE": "Yapay Zeka Notu",
+        "ACTIONS": {
+          "TITLE": "İşlemler",
+          "DETAIL": "Ödevi İncele"
+        }
+      },
+      "VALUES": {
+        "STATUS": {
+          "NOT_SUBMITTED": "Gönderilmedi",
+          "SUBMITTED": "Gönderildi"
+        }
+      }
+    },
+    "TITLE": "Ödev Notları",
+    "PAGE_TITLE": "Ödev Notları",
+    "DOWNLOAD": "Tüm Notları İndir",
+    "PUBLISH_NOTES": "Notları Yayınla",
+    "NOTIFICATION": {
+      "NOTE_1_100": "Notlar 0-100 arasında olmalıdır."
+    }
+  },
+
+  "NAVBAR": {
+    "CLASS_CODE": "Sınıf Kodu"
+  },
+
+  "NOT_FOUND": {
+    "TITLE": "Aradığınız sayfa bulunamadı",
+    "PAGE_TITLE": "Sayfa Bulunamadı",
+    "BUTTON": "Ana Sayfa"
+  },
+
+  "QUIZ": {
+    "QUESTION": "Soru",
+    "PREV": "Önceki Soru",
+    "NEXT": "Sonraki Soru",
+    "FINISH": "Bitir",
+    "PAGE_TITLE": "Quiz",
+    "POINT": "Puan"
+  },
+
+  "QUIZ_CREATE": {
+    "REMOVE": "Quizi Kaldır",
+    "PUBLISH": "Quizi Yayınla",
+    "SAVE": "Quizi Kaydet",
+    "CREATE_QUESTION": "Yeni Soru Oluştur",
+    "START_TIME": "Başlangıç Tarihi",
+    "END_TIME": "Bitiş Tarihi",
+    "PAGE_TITLE": "Quiz Oluştur",
+    "QUESTION_CREATE": {
+      "CHOICE": "Çoktan Seçmeli Soru",
+      "TRUE_FALSE": "Doğru Yanlış Sorusu",
+      "SHORT_ANSWER": "Kısa Cevap Sorusu",
+      "FILL_BLANK": "Boşluk Doldurma Sorusu",
+      "MATCHING": "Eşleştirme Sorusu"
+    },
+    "SELECT_LANGUAGE": "Soru Dili",
+    "TRUE": "Doğru",
+    "FALSE": "Yanlış",
+    "NOT_FOUND_OBJECTIONS": "Bu ödev için oluşturulmuş bir itiraz bulunamadı.",
+    "CREATE_QUESTIONS": {
+      "TITLE": "Yapay Zeka ile Soru Oluştur",
+      "ENTER_TOPIC": "Lütfen konuları giriniz",
+      "ENTER_TEXT": "Lütfen metin giriniz",
+      "ENTER_URL": "Lütfen link giriniz",
+      "TOPIC": "Konu",
+      "TEXT": "Metin",
+      "URL": "Link",
+      "FILE": "Dosya",
+      "QUESTION_TYPE": "Soru Tipi",
+      "CHOICE": "Çoktan Seçmeli Soru",
+      "TRUE_FALSE": "Doğru Yanlış Sorusu",
+      "SHORT_ANSWER": "Kısa Cevap Sorusu",
+      "FILL_BLANK": "Boşluk Doldurma Sorusu",
+      "MATCHING": "Eşleştirme Sorusu",
+      "DIFFICULTY": "Zorluk Seviyesi",
+      "EASY": "Kolay",
+      "NORMAL": "Normal",
+      "HARD": "Zor",
+      "QUESTION_COUNT": "Soru Sayısı",
+      "INFO1": "Quiz oluşturma işlemi 20 - 60 saniye kadar sürebilmektedir. Lütfen bekleyiniz...",
+      "INFO2": "25. sorudan sonra yapay zeka ile soru oluşturamazsınız.",
+      "INFO3": "Tek seferde en fazla 20 soru oluşturabilirsiniz.",
+      "CREATE": "Yeni Soru Oluştur",
+      "CREATING": "Sorular Oluşturuluyor..."
+    },
+    "QUIZ_FORM": {
+      "TITLE": "Quiz Başlığı",
+      "SETTINGS": "Quiz Ayarları",
+      "TIMED_QUIZ": "Süreli Sınav",
+      "TIMED_QUESTIONS": "Soru Başına Süre",
+      "MANY_ENTRANCE": "Birden Fazla Sınava Giriş",
+      "SHUFFLE_QUESTIONS": "Soruları Karıştır",
+      "DIFFICULTY": "Zorluk Seviyesi",
+      "EASY": "Kolay",
+      "NORMAL": "Normal",
+      "HARD": "Zor",
+      "START_END_TIME": "Sınav Başlangıç ve Bitiş Tarihi",
+      "TOPICS": "Konular",
+      "ENTER_TOPICS": "Lütfen konu giriniz",
+      "AUTO_CREATE_POINT": "Cevapların Puanını Otomatik Ayarla"
+    }
+  },
+
+  "QUIZ_NOTE_LIST": {
+    "EDIT_NOTES": "Notları Düzenle",
+    "NOTES_EDITED": "Notları Düzenlemeyi Bitir ve Kaydet",
+    "TABLE": {
+      "COLUMNS": {
+        "NAME": "Ad Soyad",
+        "STATUS": "Durum",
+        "NOTE": "Not",
+        "ACTIONS": {
+          "TITLE": "İşlemler",
+          "DETAIL1": "Quizi İncele",
+          "DETAIL2.1": "Quize Girilmiş",
+          "DETAIL2.2": "Quize Girilmemiş"
+        }
+      },
+      "VALUES": {
+        "STATUS": {
+          "NOT_ENTERED": "Girmedi",
+          "ENTERED": "Girdi"
+        }
+      }
+    },
+    "TITLE": "Quiz Notları",
+    "DOWNLOAD": "Tüm Quiz Notlarını İndir",
+    "PAGE_TITLE": "Quiz Notları"
+  },
+
+  "STUDENTS": {
+    "STUDENTS": "Öğrenciler",
+    "TEACHERS": "Öğretmenler",
+    "ADD": "Ekle",
+    "INVITE_TITLE": "Bir Öğretmene Davet Gönder",
+    "INVITE_PLACEHOLDER": "Lütfen öğretmenin email adresini yazınız",
+    "SEND": "Gönder",
+    "CANCEL": "İptal Et",
+    "PAGE_TITLE": "Sınıf Üyeleri"
+  },
+
+  "ASSIGNMENT_DETAIL": {
+    "DEFINITION": "Ödev Tanımı",
+    "DESC": "Ödev Açıklaması",
+    "FILE": "Ödev Dosyası",
+    "DOWNLOAD": "Dosyayı İndir",
+    "GO_ASSIGNMENTS": "Ödevlere Git",
+    "UPDATE": "Ödevi Güncelle",
+    "DELETE": "Ödevi Sil",
+    "YOUR_NOTE": "Notunuz",
+    "TIME_OVER": "Ödev Süresi Doldu",
+    "CANCEL_SUBMIT": "Ödev Gönderimini İptal Et",
+    "SUBMIT": "Çalışma Yükle",
+    "COMMENTS": "Yorumlar",
+    "SUBMITED_ASSIGNMENTS": "Teslim Edilen Ödevler",
+    "ASSIGNMENT_STATUS": "Ödev Durumu",
+    "HOMEWORK": "Çalışmanız",
+    "SUBMITED": "Teslim Edildi",
+    "NOT_SUBMITED": "Teslim Edilmedi",
+    "PLACEHOLDER": "Mesaj Gönder",
+    "PAGE_TITLE": "Ödev Detayı",
+    "ASSIGNMENT_DESCRIPTION": "Geri Bildirim",
+    "SELECT_FILE": "Dosya Seç",
+    "COMMENT": "Sınıf Yorumu",
+    "GRADING": "Yapay zeka not veriyor, lütfen bekleyiniz...",
+    "NOT_GRADED": "Yapay zeka not veremedi",
+    "NOTE": "Not Aralığı",
+    "TEST_ASSIGNMENT": "Ödevimi Test Et",
+    "OBJECTION_DESC": "Ödev hakkında veya ödev değerlendirme sürecinde bir hata olduğunu düşünüyorsan kolayca itiraz kaydı oluşturabilirsin",
+    "SHOW_OBJECTION": "İtirazları Görüntüle",
+    "CREATE_OBJECTION": "İtiraz Oluştur",
+    "CREATED_OBJECTIONS": "Bu Ödev İçin Oluşturulan İtirazlar",
+    "NOT_FOUND_OBJECTIONS": "Bu ödev için oluşturulmuş bir itiraz bulunamadı.",
+    "OBJECTION_DETAIL_REASON": "İtiraz Nedeni",
+    "OBJECTION_DETAIL_DESC": "İtiraz Açıklaması",
+    "OBJECTION_DETAIL_NOTE": "Verilen Not",
+    "OBJECTION_DETAIL_MESSAGE": "Öğretmenin Mesajı",
+    "SELECT_LANGUAGE": "Dil",
+    "TEST_HISTORY": "Test Geçmişi",
+    "TEST_YOUR_ASSIGNMENT": "Ödevini Test Et",
+    "CHOOSE_FILE_TO_TEST": "Test etmek için bir dosya seç",
+    "TEST_ASSIGNMENT_DESC": "Ödev dosyanızı buraya sürükleyip bırakarak ya da tıklayarak yükleyin",
+    "TESTING_YOUR_ASSIGNMENT": "Ödeviniz test ediliyor, lütfen bekleyiniz...",
+    "TEST_FAILED": "Ödev test edilemedi",
+    "FEEDBACK": "Ödev Test Sonuçları",
+    "TEST_LIMIT_EXCEEDED": "Ödev Test Etme Haklarınız Tükenmiş Görünüyor,Dilerseniz Önceki Testlerinizi İnceleyebilirisiniz",
+    "TEST_LIMIT_TITLE": "Ödev Test Etme Hakkınız Tükenmiş",
+    "FILE_SIZE_TOO_LARGE": "Dosya boyutu çok büyük, en fazla 50MB dosya yükleyebilirsiniz!",
+    "FILE_UPLOAD_SUCCESS": "Dosya başarıyla yüklendi",
+    "SUCCESS": "Başarılı",
+    "ERROR": "Hata Oluştu",
+    "FILE_UPLOAD_ERROR": "Dosya yüklenemedi",
+    "TEST_HISTORY_ERROR": "Ödev test geçmişi getirilemedi",
+    "TEST_ASSIGNMENT_ERROR": "Ödev test edilirken bir hata oluştu, lütfen tekrar deneyiniz",
+    "LANGUAGES": {
+      "TR": "Türkçe",
+      "EN": "İngilizce"
+    }
+  },
+
+  "ASSIGNMENT_CARD": {
+    "DEFINITION": "Ödev Tanımı",
+    "DESC": "Ödev Açıklaması",
+    "DETAIL": "Ödev Detayına Git"
+  },
+
+  "CLASS_CARD": {
+    "STUDENT": "Öğrenci"
+  },
+
+  "QUIZ_CARD": {
+    "CREATE_QUIZ": "Quiz Oluşturmaya Devam Et",
+    "QUIZ_RESULT": "Quiz Sonuçları",
+    "START_QUIZ": "Quizi Başlat",
+    "QUESTION": "Soru",
+    "NOTE": "Notunuz",
+    "TIME_OVER": "Süre Doldu",
+    "NOT_STARTED": "Başlamadı",
+    "INSPECT": "Quizi İncele"
+  },
+
+  "MANAGE_INVITES": {
+    "TITLE": "Sınıf Davetiyeleri",
+    "EMPTY": "Davetiye kutunuz boş gözüküyor",
+    "SENDER": "Gönderen",
+    "CLASS_NAME": "Sınıf Adı",
+    "OK": "Tamam",
+    "CANCEL": "İptal Et"
+  },
+
+  "QUESTION_ITEM": {
+    "QUESTION": "Soru",
+    "PLACEHOLDER": "Sorunuzu buraya yazınız...",
+    "TIME": "Soru Süresi",
+    "POINT": "Soru Puanı",
+    "SHORT_ANSWER": {
+      "ENTER_ANSWER": "Cevabınızı buraya yazınız"
+    },
+    "FILL_BLANK": {
+      "ENTER_ANSWER": "{{number}}'inci cevabınızı buraya yazınız"
+    }
+  },
+
+  "NOTIFICATION": {
+    "CLASS_CARD": {
+      "LEAVE_MESSAGE": "Sınıftan ayrılmak istiyor musunuz?",
+      "LEAVE_CONTENT": "Eğer sınıftan ayrılırsanız birdaha sınıf içerisindeki verilere erişemeyebilirsin.",
+      "DELETE_MESSAGE": "Sınıfı silmek istiyor musunuz?",
+      "DELETE_CONTENT": "Eğer sınıfı silerseniz sınıf içerisindeki veriler de silinecektir.",
+      "LEAVE_CLASS": "Sınıftan Ayrıl",
+      "DELETE_CLASS": "Sınıfı Sil",
+      "YES": "Evet",
+      "NO": "Hayır",
+      "LEAVED_CLASS": "{{className}} sınıfından ayrıldınız",
+      "DELETED_CLASS": "{{className}} sınıfını sildiniz",
+      "ERROR_LEAVE": "Sınıftan çıkılamadı",
+      "ERROR_LEAVE_TEACHER": "Sınıftaki tek öğretmen olduğunuz için sınıftan çıkamazsınız",
+      "ERROR_DELETE": "Sınıf silinemedi"
+    },
+
+    "NAVBAR": {
+      "INVITE": "Sınıf daveti geldi!",
+      "COPY": "Sınıf kodu kopyalandı",
+      "CHANGE_LNG": "Dil Değiştirildi"
+    },
+
+    "COMMENT": {
+      "SUCCESS": "Yorum başarıyla silindi",
+      "ERROR": "Yorum silinirken bir sorun oluştu"
+    },
+
+    "CREATE_ASSIGNMENT": {
+      "ERROR_MSG_TITLE": "Ödev Oluşturulamadı",
+      "ERROR_MSG_DESC": "Lütfen gerekli birimleri doldurunuz!",
+      "SUCCESS": "Ödev başarıyla oluşturuldu",
+      "ERROR": "Ödev oluşturulurken bir hata oluştu",
+      "DEADLINE": {
+        "ERROR_MSG_TITLE": "Ödev Oluşturulamadı",
+        "ERROR_MSG_DESC": "Lütfen son teslim tarihini kontrol ediniz!"
+      },
+      "VALIDATION": {
+        "TITLE": "Başlık Boş Olamaz",
+        "DESC": "Açıklama Boş Olamaz",
+        "REQUIREMENTS": "Gereksinimler Boş Olamaz",
+        "DEFINITION": "Tanım Boş Olamaz",
+        "OBJECTION_TEACHERS": "İtiraz Öğretmenleri Boş Olamaz",
+        "DEADLINE": "Son Teslim Tarihi Boş Olamaz"
+      }
+    },
+
+    "CREATE_CLASS": {
+      "EMPTY": "Sınıf ismi boş olamaz!",
+      "SUCCESS": "Sınıf başarıyla oluşturuldu",
+      "ERROR": "Sınıf oluşturulurken bir hata oluştu"
+    },
+
+    "CREATE_QUIZ": {
+      "ERROR_MSG_TITLE": "Hatalı Quiz Oluşturma İsteği",
+      "ERROR_MSG_DESC": "Lütfen gerekli birimleri doldurunuz!",
+      "STARTED_QUIZ_CREATE": "Quiz oluşturma işlemi başladı",
+      "SUCCESS": "Quiz başarıyla oluşturuldu",
+      "ERROR": "Quiz oluşturulurken bir hata oluştu",
+      "GO_QUIZ_EDIT": "Quiz oluşturma sayfasına gitmek için buraya tıklayın"
+    },
+
+    "JOIN_CLASS": {
+      "EMPTY": "Sınıf kodu boş olamaz!",
+      "SUCCESS": "Sınıfa başarıyla katıldınız",
+      "ERROR": "Sınıfa katılırken bir hata oluştu",
+      "REQUEST_SENT": "Sınıf katılım isteği gönderildi"
+    },
+
+    "MANAGE_INVITES": {
+      "DECLINE": {
+        "SUCCESS": "Sınıf daveti başarıyla silindi",
+        "ERROR": "Sınıf daveti silinirken bir hata oluştu"
+      },
+
+      "ACCEPT": {
+        "SUCCESS": "Sınıf daveti kabul edildi!",
+        "ERROR": "Sınıf daveti kabul edilirken bir hata oluştu"
+      }
+    },
+
+    "QUESTION_ITEM": {
+      "DELETE_SUCCESS": "Soru başarıyla silindi"
+    },
+
+    "ASSIGNMENT_DETAIL": {
+      "ASSIGNMENT_ERROR": "Ödev Verisi Yüklenemedi",
+      "CLASS_ERROR": "Geçersiz Sınıf",
+      "TEACHER_ERROR": "Öğretmen Bilgileri Yüklenemedi",
+      "FILE_UPLOAD_ERROR": {
+        "MESSAGE": "Dosya Yüklenemedi",
+        "CONTENT": "Lütfen ödev yüklemek için bir dosya seçiniz"
+      },
+      "ASSIGNMENT_NOT_LOAD": "Ödev Yüklenemedi",
+      "REMOVE_ASSIGNMENT": "Ödev başarıyla kaldırıldı",
+      "REMOVE_ASSIGNMENT_ERROR": "Ödev kaldırılırken bir hata oluştu",
+      "GRADING": "Yapay zeka not veriyor, lütfen bekleyiniz...",
+      "GRADE_SUCCESS": "Ödev başarıyla yüklendi",
+      "GRADE_ERROR": "Ödev Yüklendi fakat notlandırma yapılamadı",
+      "DOWNLOAD_ERROR": {
+        "MESSAGE": "Dosya İndirilemedi",
+        "CONTENT": "Yüklediğiniz ödev dosyasına ulaşılamadı"
+      },
+      "ASSIGNMENT_DOWNLOAD_ERROR": {
+        "MESSAGE": "Dosya İndirilemedi",
+        "CONTENT": "Ödev dosyasına ulaşılamadı"
+      },
+      "DELETE_SUCCESS": "Ödev başarıyla silindi",
+      "DELETE_ERROR": "Ödev silinirken bir hata oluştu",
+      "DELETE_MODAL": {
+        "TITLE": "Ödevi silinecek, devam etmek istiyor musunuz?",
+        "CONTENT": "Eğer ödevi silerseniz yüklenen ödevler ve eğer varsa ödev dosyası da silinecek. Devam etmek istiyor musunuz?",
+        "OK": "Ödevi Sil",
+        "CANCEL": "İptal Et"
+      },
+      "LOAD_COMMENT_ERROR": "Yorumlar alınırken bir hata oluştu",
+      "COMMENT": {
+        "EMPTY_MESSAGE": "Yorum Boş Olamaz",
+        "EMPTY_CONTENT": "Lütfen yorumunuzu yazınız",
+        "ERROR_MESSAGE": "Yorum eklenirken bir hata oluştu",
+        "ERROR_CONTENT": "Lütfen tekrar deneyiz.",
+        "SUCCESS": "Yorum başarıyla eklendi"
+      }
+    },
+
+    "LOGIN": {
+      "PASSWORD_ERROR": {
+        "MESSAGE": "Hatalı Parola",
+        "CONTENT": "Parolanız en az 6 haneli olmalıdır, lütfen kontrol ediniz."
+      },
+
+      "SUCCESS": "Giriş yapma işlemi başarıyla gerçekleştirildi",
+      "USER_NOT_FOUND_ERROR": {
+        "MESSAGE": "Kullanıcı Bulunamadı",
+        "CONTENT": "Girdiğiniz bilgilere ait herhangi bir kullanıcı kaydı bulunamadı, lütfen kontrol ediniz"
+      },
+      "NAME_ERROR": {
+        "MESSAGE": "Hatalı Ad Soyad",
+        "CONTENT": "Lütfen tam adınızı giriniz"
+      },
+
+      "REGISTER_SUCCESS": "Kayıt olma işlemi başarıyla gerçekleştirildi, hoşgeldin!",
+      "ALREADY_HAVE_USER": "Sisteme bu bilgiler ile kayıtlı zaten bir kullanıcı bulunmakta",
+      "SYSTEM_ERROR": "Sistemde bir hata oluştu, lütfen tekrar deneyiniz",
+      "ERROR": "Hata",
+      "PASSWORD_NOT_MATCH_ERROR": {
+        "MESSAGE": "Parolalar Eşleşmiyor",
+        "CONTENT": "Girdiğiniz parolalar eşleşmiyor, lütfen kontrol ediniz"
+      }
+    },
+    "CLASS": {
+      "CLASS_ERROR": "Sınıf ile ilgili bir sorun oluştu",
+      "TEACHER_ERROR": "Öğretmen kontrolü yapılamadı",
+      "FLOW_ERROR": "Sınıf akışı yüklenemedi"
+    },
+
+    "POST": {
+      "CREATE_SUCCESS": "Gönderi başarıyla oluşturuldu",
+      "CREATE_ERROR": "Gönderi oluşturulurken bir hata oluştu",
+      "DELETE_SUCCESS": "Gönderi başarıyla silindi",
+      "DELETE_ERROR": "Gönderi silinirken bir hata oluştu"
+    },
+
+    "NOTE_LIST": {
+      "NOTE_LIST_ERROR": "Not Listesi Bulunamadı",
+      "DOWNLOAD_ERROR": "Notların Bulunduğu Dosya İndirilemedi",
+      "PUBLISH_SUCCESS": "Notlar başarıyla yayınlandı",
+      "PUBLISH_ERROR": "Notlar yayınlanırken bir hata oluştu"
+    },
+
+    "QUIZ": {
+      "SUCCESS": "Quiz Başarıyla Tamamlandı",
+      "SUCCESS_CLOCK": "Süre bitti, quiz otomatik olarak tamamlandı",
+      "ERROR": "Quiz Tamamlanırken Hata Oluştu",
+      "NOT_FOUND": "Quiz Bulunamadı",
+      "ENTRANCE_ERROR": "Quiz mevcut değil ya da daha önce girilmiş"
+    },
+
+    "QUIZ_CREATE": {
+      "CREATE_ERROR": {
+        "MESSAGE": "Hatalı Quiz Oluşturma İsteği",
+        "CONTENT": "Lütfen tüm soruları ve cevaplarını kontrol ederek tekrar deneyiniz"
+      },
+      "SAVE_SUCCESS": "Quiz başarıyla kaydedildi",
+      "SAVE_ERROR": "Quiz kaydedilirken bir hata oluştu",
+      "QUIZ_GET_ERROR": "Quiz bilgileri alınamadı",
+      "DELETE_SUCCESS": "Quiz başarıyla silindi",
+      "DELETE_ERROR": "Quiz silinirken bir hata oluştu",
+      "PUBLISH_SUCCESS": "Quiz başarıyla yayınlandı",
+      "PUBLISH_ERROR": "Quiz yayınlanırken bir hata oluştu",
+      "CREATE_QUESTION_ERROR": {
+        "MESSAGE": "Hatalı Soru Oluşturma İsteği",
+        "CONTENT": "Lütfen gerekli alanları kontrol ederek tekrar deneyiniz"
+      },
+      "CREATE_QUESTION": {
+        "SUCCESS": "Sorular başarıyla oluşturuldu",
+        "ERROR": "Soru oluşturulurken bir hata oluştu"
+      },
+      "QUIZ_GET": {
+        "ERROR": "Quiz bilgileri alınamadı",
+        "SUCCESS": "Quiz bilgileri başarıyla alındı"
+      },
+      "SAVE_QUIZ": {
+        "ERROR": {
+          "MESSAGE": "Hatalı Quiz Kaydetme İsteği",
+          "CONTENT": "Lütfen gerekli alanları kontrol ederek tekrar deneyiniz"
+        },
+        "SUCCESS": {
+          "MESSAGE": "Quiz başarıyla kaydedildi"
+        }
+      },
+      "PUBLISH_QUIZ": {
+        "TIME_ERROR": {
+          "MESSAGE": "Hatalı Quiz Yayınlama İsteği",
+          "CONTENT": "Quizin başlamasına en az 10 dakika kalmalıdır"
+        },
+        "ERROR": {
+          "MESSAGE": "Hatalı Quiz Yayınlama İsteği",
+          "CONTENT": "En az 1 soru olmalıdır"
+        },
+        "SUCCESS": {
+          "MESSAGE": "Quiz başarıyla yayınlandı"
+        }
+      }
+    },
+
+    "QUIZ_NOTE_LIST": {
+      "NOTE_LIST_ERROR": "Not Listesi Bulunamadı",
+      "STUDENT_LIST_ERROR": "Öğrenci Listesi Bulunamadı",
+      "NOTE_UPDATE_SUCCESS": "Notlar Başarıyla Güncellendi",
+      "NOTE_UPDATE_ERROR": "Notlar Güncellenirken Bir Hata Oluştu"
+    },
+
+    "STUDENTS": {
+      "STUDENT_ERROR": "Öğrenci verisi alınamadı",
+      "TEACHER_ERROR": "Öğretmen verisi alınamadı",
+      "INVITE_SUCCESS": "Davet başarıyla gönderildi",
+      "INVITE_ERROR": "Davet gönderilemedi",
+      "TYPE_ERROR": "Kullanıcı tipi bilgisi alınamadı",
+      "GET_JOIN_INVITES_ERROR": "Katılma davetleri alınamadı",
+      "ACCEPT_JOIN_INVITE_SUCCESS": "Sınıf daveti kabul edildi",
+      "ACCEPT_JOIN_INVITE_ERROR": "Sınıf daveti kabul edilirken bir hata oluştu",
+      "REJECT_JOIN_INVITE_SUCCESS": "Sınıf daveti reddedildi",
+      "REJECT_JOIN_INVITE_ERROR": "Sınıf daveti reddedilirken bir hata oluştu"
+    },
+    "AUTHORIZATION_SERVICE": {
+      "AUTHORIZATION_ERROR_MESSAGE": "Kullanıcı Bilgisi bulunamadı.",
+      "AUTHORIZATION_ERROR_DESCRIPTION": "Lütfen giriş yapınız.",
+      "LOGOUT_SUCCESS": "Başarıyla çıkış yapıldı."
+    }
+  },
+
+  "AUTHORIZATION": {
+    "UNAUTH_ERROR": "Sayfaya giriş yetkiniz bulunmamaktadır."
+  },
+
+  "COMMENT": {
+    "DELETE_TITLE": "Yorumu silmek istediğine emin misin?",
+    "YES": "Evet",
+    "NO": "Hayır",
+    "DELETE_COMMENT": "Yorumu Sil"
+  },
+  "LANDING_PAGE": {
+    "MENU": {
+      "HOME": "Ana Sayfa",
+      "FEATURES": "Özellikler",
+      "PRODUCT": "Ürün",
+      "CONTACT": "İletişim",
+      "LOGIN": "Giriş Yap",
+      "REGISTER": "Kayıt Ol"
+    },
+    "CONTACT_ERROR": "Lütfen mesaj göndermeden önce tüm birimleri doldurunuz",
+    "MESSSAGE_SENDED": "Mesaj Gönderildi.",
+    "SEND_MESSAGE_ERROR": "Mesaj Gönderilemedi. Lütfen iletişim kurmak için info@intelligrade.ai adresine mail atınız.",
+    "TITLE1": "Yapay Zeka ile eğitiminize",
+    "TITLE2": "güç",
+    "TITLE3": "katın",
+    "SUB_TITLE": "Yapay zeka desteğiyle eğitimde herşey artık daha kolay",
+    "FREE_REGISTER": "Ücretsiz Kaydol",
+    "STEPS": {
+      "STEP1": "Hesap Oluştur",
+      "STEP2": "Sınıf Oluştur veya Katıl",
+      "STEP3": "İşini Yapay Zeka İle Kolaylaştır",
+      "STEP4": "Eğitimini Tamamla"
+    },
+    "FEATURES": {
+      "TITLE": "Yapay Zeka Destekli Özellikler",
+      "SUB_TITLE": "Yapay zeka desteği ile bir çok işinizi daha kolay ve hızlı bir şekilde halledebilirsiniz",
+      "FEATURE1_TITLE": "Ödev Kontrolü",
+      "FEATURE1_DESC": "Yüzlerce ödevi tek tek kontrol etmekten kurtulun. Siz sadece ödev tanımlarken yapay zekaya ne yapması gerektiğini söyleyin. Gerisini yapay zeka sizin için halletsin.",
+      "FEATURE2_TITLE": "Quiz Oluştur",
+      "FEATURE2_DESC": "Artık quiz sorularını tek tek oluşturmanız gerekmiyor. Herhangi bir konu, link, yazı veya dosya aracılığı ile kolayca quiz sorularınızı oluşturabilirsiniz.",
+      "FEATURE3_TITLE": "Ödev Testi",
+      "FEATURE3_DESC": "Bir öğrenci olarak ödevi teslim etmeden önce eksiklerinizi görmek istemez misiniz? Ödev dosyanızı test bölümüne yükleyin ve bu ödev için ödevinizin eksi ve artı taraflarını yapay zeka size söylesin."
+    },
+    "PRODUCT": {
+      "TITLE": "Sağladığımız Özellikler",
+      "ITEM1_TITLE": "Dosyalama Sistemi",
+      "ITEM1_DESC": "Sınıf için paylaşılan tüm dosyalarınızı tek bir yerden görün ve kontrol edin. Tek tek dosya aramanıza artık gerek kalmayacak.",
+      "ITEM2_TITLE": "Yapay Zeka Destekli Ödev",
+      "ITEM2_DESC": "Ödevleri tek tek kontrol etmenize artık gerek yok. Siz sadece ödev tanımlarken gereklilikleri tanımlayın ve geri kalanı sizin için yapay zeka halletsin.",
+      "ITEM3_TITLE": "Yapay Zeka Destekli Quiz",
+      "ITEM3_DESC": "Tüm soruları tek tek oluşturmaktan kurtulun. Konu, link, yazı veya dosya verin sizin için tüm soruları yapay zeka oluştursun. Size sadece düzenleme kalsın.",
+      "ITEM4_TITLE": "İtiraz Sistemi",
+      "ITEM4_DESC": "Notlandırmada herhangi bir problem olduğunu mu düşünüyorsunuz? Hemen sistem üzerinden bir itiraz kaydı oluşturun ve oluşan yanlışlığın önüne geçin.",
+      "ITEM5_TITLE": "Ödev Testi",
+      "ITEM5_DESC": "Öğrencileriniz ödevini teslim etmeden önce test ederek daha kaliteli ödevler yüklesin. Ödevin artı ve eksi taraflarını tespit ederek kendini geliştirsin.",
+      "ITEM6_TITLE": "Anket Sistemi",
+      "ITEM6_DESC": "Anket hazırlamak istediğinizde farklı platformlara gidip zamanınızı kaybetmenize gerek yok. Tek tıkla sistem üzerinden anketinizi oluşturabilirsiniz."
+    },
+    "MOBILE": {
+      "TITLE": "İşlemlerinize Heryerde Devam Edin",
+      "SUB_TITLE": "Mobil uygulama desteğimiz ile telefon veya tabletleriniziden de işlemlerinize kolayca devam edebilirsiniz."
+    },
+    "CONTACT": {
+      "TITLE": "İletişimde Kalalım",
+      "SUB_TITLE": "Bizimle iletişime geçmek için aşağıdaki formu doldurabilirsiniz.",
+      "NAME": "Ad",
+      "SURNAME": "Soyad",
+      "EMAIL": "E-posta adresi",
+      "MESSAGE": "Mesajınızı giriniz...",
+      "SEND": "Mesaj Gönder"
+    }
+  },
+  "SIDEBAR": {
+    "MY_CLASSES": "Sınıflarım",
+    "CREATE_CLASS": "Sınıf Oluştur",
+    "JOIN_CLASS": "Sınıfa Katıl",
+    "INVITATIONS": "Davetiyeler",
+    "SETTINGS": "Ayarlar",
+    "LOGOUT": "Çıkış Yap",
+    "CLASS": "Sınıf",
+    "FLOW": "Akış",
+    "USERS": "Kişiler",
+    "OBJECTIONS": "İtirazlar",
+    "CLASS_FILES": "Sınıf Dosyaları"
+  }
+}

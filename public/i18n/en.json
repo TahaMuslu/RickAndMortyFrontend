@@ -1,0 +1,420 @@
+{
+  "HOME": {
+    "NAVBAR_BTN": {
+      "LOGIN": "Login",
+      "REGISTER": "Register Now",
+      "MYCLASSES": "My Classes",
+      "LOGOUT": "Log Out"
+    },
+    "MENU": {
+      "HOME": "Home",
+      "SERVICES": "Services",
+      "TEAM": "Our Team",
+      "CONTACT": "Contact Us"
+    },
+    "CARDS": {
+      "CARD1": {
+        "CATEGORY": "Quick Assessment",
+        "TITLE": "Quickly Review and Assess",
+        "DESC": "Evaluate your assignments quickly with the support of artificial intelligence. All you need to do is download and assess the files.",
+        "VIDEO": "How to Perform quick Assessment?"
+      },
+      "CARD2": {
+        "CATEGORY": "Most Accurate Results",
+        "TITLE": "Get Fastest and Most Accurate Results",
+        "DESC": "Get rid of manually checking each assignment. Let artificial intelligence handle it for you and provide the most accurate grades.",
+        "VIDEO": "How to Get Most Accurate Results?"
+      },
+      "CARD3": {
+        "CATEGORY": "Easy and User-Friendly",
+        "TITLE": "Discover an Easy and User-Friendly System",
+        "DESC": "Assign and upload assignments effortlessly, and the system will automatically grade them. You just need to download the grade file.",
+        "VIDEO": "How to Use the Easy and User-Friendly System?"
+      }
+    },
+    "SERVICES": {
+      "CARD1": {
+        "TITLE": "Assignment Management",
+        "DESC": "Define and manage your assignments and their requirements. Grade your students based on the given criteria."
+      },
+      "CARD2": {
+        "TITLE": "Quick Assessment",
+        "DESC": "Evaluate the assignments you give with the support of artificial intelligence. Just download the generated file."
+      },
+      "CARD3": {
+        "TITLE": "Multiple Class Support",
+        "DESC": "Create a class for any software-related course. Assign your assignments and let artificial intelligence handle the rest."
+      }
+    },
+    "ABOUT_US": {
+      "CARD1": {
+        "TITLE": "Why IntelliGrade is the Best?",
+        "DESC": "With the support of artificial intelligence, you can evaluate assignments quickly. AI algorithms can automatically grade students' assignments and speed up the evaluation process. This allows teachers to save time."
+      },
+      "CARD2": {
+        "TITLE": "AI-Powered Quiz System",
+        "DESC": "An advanced tool that enables teachers to create interactive and engaging quizzes for their students. This system allows teachers to input specific topics and generates customized quizzes based on those topics using AI algorithms."
+      },
+      "CARD3": {
+        "TITLE": "AI-Powered Assignment System",
+        "DESC": "An innovative tool that provides teachers and students with a user-friendly, effective, and reliable assignment management experience. This system makes it easy for teachers to define, assign, and track assignments. Students can upload, edit, and track their assignments."
+      },
+      "CARD4": {
+        "TITLE": "AI-Powered Notification System",
+        "DESC": "An innovative system that assists students in their academic studies by suggesting appropriate questions, academic articles, and research sites based on their classes and assigned assignments. This system utilizes AI algorithms to support students in learning and acquiring knowledge more effectively."
+      },
+      "TEXT": "About Us",
+      "MAIN_TITLE": "What Sets Us Apart?",
+      "MAIN_DESC": "What sets us apart is our commitment to providing teachers and students with a user-friendly, effective, and reliable assignment management experience. Here are some of the features that differentiate us from other systems: Comprehensive Assignment Management, where teachers can easily define, assign, and set deadlines for assignments. AI-Powered Quick Assessment, where AI algorithms automatically analyze and grade student assignments, allowing teachers to spend less time grading and students to receive quick feedback."
+    },
+    "INFO": {
+      "ASSIGNMENT": "Assignments",
+      "QUIZ": "Quizzes",
+      "STUDENT": "Registered Students",
+      "TEACHER": "Registered Teachers"
+    },
+    "CONTACT": {
+      "TITLE": "Contact Us",
+      "SUB_TITLE": "You can always get in touch with us",
+      "DESC": "We would be delighted to hear from you whether it's about contributing to our project, sharing your ideas, or asking any questions. We aim to provide our teachers and students with a user-friendly, effective, and reliable educational management experience, and your feedback is highly valuable in this process.",
+      "SEND": "Send Message"
+    }
+  },
+
+  "LOGIN_REGISTER": {
+    "LOGIN": "Login",
+    "REGISTER": "Register",
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "NAME": "Full Name",
+    "LOGIN_TITLE": "New Here?",
+    "LOGIN_DESC": "We are excited to have you here. Register now and join us.",
+    "REGISTER_TITLE": "Already Have an Account?",
+    "REGISTER_DESC": "Log in now and enjoy the unique features of IntelliGrade."
+  },
+
+  "CLASSES": {
+    "EMPTY": "No classes found here.",
+    "CREATE_NOW": "Create Now",
+    "JOIN_CLASS": "Join a Class",
+    "CREATE_CLASS": "Create a Class",
+    "CANCEL": "Cancel",
+    "CREATE": "Create",
+    "JOIN": "Join",
+    "CREATE_CLASS_PLACEHOLDER": "Class name (max 50 characters)",
+    "JOIN_CLASS_PLACEHOLDER": "Class code"
+  },
+
+  "CLASS": {
+    "CREATE_ASSIGNMENT": "Create Assignment",
+    "CREATE_QUIZ": "Create Quiz",
+    "EMPTY": "No class work found.",
+    "CREATE_ASSIGNMENT_FORM": {
+      "TEXT": "Create Assignment",
+      "TITLE": "Title",
+      "DEFINITION": "Definition",
+      "DESC": "Description",
+      "REQUIREMENTS": "Requirements (max 60 characters)",
+      "DEADLINE": "Deadline"
+    },
+    "CREATE_QUIZ_FORM": {
+      "START_DATE": "Start Date",
+      "END_DATE": "End Date",
+      "QUESTION_COUNT": "Number of Questions",
+      "TOPIC_NAME": "Topic Name (max 30 characters)",
+      "LEVEL": "Difficulty Level",
+      "EASY": "Easy",
+      "NORMAL": "Normal",
+      "HARD": "Hard",
+      "VERY_HARD": "Very Hard",
+      "INFO": "Quiz creation process may take up to 20 - 60 seconds. Please wait..."
+    }
+  },
+
+  "ERROR": {
+    "TEXT": "There was a problem on the server. Please get in touch with us.",
+    "BUTTON": "Home"
+  },
+
+  "LAYOUT": {
+    "NAVBAR": {
+      "HOME": "Home",
+      "CLASSES": "My Classes",
+      "STUDENTS": "Students",
+      "CREATE_QUIZ": "Create Quiz",
+      "QUIZ_RESULT": "Quiz Results",
+      "ASSIGNMENTS": "Assignments",
+      "CREATE_CLASS": "Create Class",
+      "JOIN_CLASS": "Join Class",
+      "LOGOUT": "Log Out",
+      "MY_PROFILE": "My Profile",
+      "SETTINGS": "Settings"
+    }
+  },
+
+  "NOTE_LIST": {
+    "TABLE": {
+      "COLUMNS": {
+        "NAME": "Full Name",
+        "STATUS": "Status",
+        "NOTE": "Grade",
+        "ACTIONS": {
+          "TITLE": "Actions",
+          "DETAIL": "View Assignment"
+        }
+      }
+    },
+    "TITLE": "Assignment Grades",
+    "DOWNLOAD": "Download All Grades"
+  },
+
+  "NOT_FOUND": {
+    "TITLE": "Page Not Found",
+    "BUTTON": "Home"
+  },
+
+  "QUIZ": {
+    "QUESTION": "Question",
+    "PREV": "Previous Question",
+    "NEXT": "Next Question",
+    "FINISH": "Finish"
+  },
+
+  "QUIZ_CREATE": {
+    "REMOVE": "Remove Quiz",
+    "PUBLISH": "Publish Quiz",
+    "CREATE_QUESTION": "Create New Question"
+  },
+
+  "QUIZ_NOTE_LIST": {
+    "TABLE": {
+      "COLUMNS": {
+        "NAME": "Full Name",
+        "STATUS": "Status",
+        "NOTE": "Grade",
+        "ACTIONS": {
+          "TITLE": "Actions",
+          "DETAIL": "View Quiz"
+        }
+      }
+    },
+    "TITLE": "Quiz Grades",
+    "DOWNLOAD": "Download All Quiz Grades"
+  },
+
+  "STUDENTS": {
+    "STUDENTS": "Students",
+    "TEACHERS": "Teachers",
+    "ADD": "Add",
+    "INVITE_TITLE": "Send Invitation to a Teacher",
+    "INVITE_PLACEHOLDER": "Please enter the teacher's email address",
+    "SEND": "Send",
+    "CANCEL": "Cancel"
+  },
+
+  "ASSIGNMENT_DETAIL": {
+    "DEFINITION": "Assignment Definition",
+    "DESC": "Assignment Description",
+    "FILE": "File",
+    "DOWNLOAD": "Download File",
+    "GO_ASSIGNMENTS": "Go to Assignments",
+    "UPDATE": "Update Assignment",
+    "DELETE": "Delete Assignment",
+    "YOUR_NOTE": "Your Note",
+    "TIME_OVER": "Assignment Time Expired",
+    "CANCEL_SUBMIT": "Cancel Assignment Submission",
+    "SUBMIT": "Upload Work",
+    "COMMENTS": "Comments",
+    "SUBMITTED_ASSIGNMENTS": "Submitted Assignments",
+    "ASSIGNMENT_STATUS": "Assignment Status",
+    "HOMEWORK": "Your Assignment",
+    "SUBMITTED": "Submitted",
+    "NOT_SUBMITTED": "Not Submitted",
+    "PLACEHOLDER": "Send Message"
+  },
+  "ASSIGNMENT_CARD": {
+    "DEFINITION": "Assignment Definition",
+    "DESC": "Assignment Description"
+  },
+  "CLASS_CARD": {
+    "STUDENT": "Student"
+  },
+  "QUIZ_CARD": {
+    "CREATE_QUIZ": "Continue Creating Quiz",
+    "QUIZ_RESULT": "Quiz Results",
+    "START_QUIZ": "Start Quiz"
+  },
+  "MANAGE_INVITES": {
+    "TITLE": "Class Invitations",
+    "EMPTY": "Your invitation box appears to be empty",
+    "SENDER": "Sender",
+    "CLASS_NAME": "Class Name",
+    "OK": "OK",
+    "CANCEL": "Cancel"
+  },
+  "QUESTION_ITEM": {
+    "QUESTION": "Question",
+    "PLACEHOLDER": "Write your question here..."
+  },
+  "NOTIFICATION": {
+    "CLASS_CARD": {
+      "LEAVE_MESSAGE": "Do you want to leave the class?",
+      "LEAVE_CONTENT": "If you leave the class, you may no longer have access to class content",
+      "LEAVE_CLASS": "Leave Class",
+      "YES": "Yes",
+      "NO": "No",
+      "LEAVED_CLASS": "You have left the {{className}} class",
+      "ERROR": "Class could not be deleted"
+    },
+    "NAVBAR": {
+      "INVITE": "Class invitation received!",
+      "COPY": "Class code copied",
+      "CHANGE_LNG": "Language Changed"
+    },
+    "COMMENT": {
+      "SUCCESS": "Comment successfully deleted",
+      "ERROR": "An issue occurred while deleting the comment"
+    },
+    "CREATE_ASSIGNMENT": {
+      "ERROR_MSG_TITLE": "Invalid Assignment Creation Request",
+      "ERROR_MSG_DESC": "Please fill in the required fields!",
+      "SUCCESS": "Assignment successfully created",
+      "ERROR": "An error occurred while creating the assignment"
+    },
+    "CREATE_CLASS": {
+      "EMPTY": "Class name cannot be empty!",
+      "SUCCESS": "Class successfully created",
+      "ERROR": "An error occurred while creating the class"
+    },
+    "CREATE_QUIZ": {
+      "ERROR_MSG_TITLE": "Invalid Quiz Creation Request",
+      "ERROR_MSG_DESC": "Please fill in the required fields!",
+      "STARTED_QUIZ_CREATE": "Quiz creation process started",
+      "SUCCESS": "Quiz successfully created",
+      "ERROR": "An error occurred while creating the quiz",
+      "GO_QUIZ_EDIT": "Click here to go to quiz creation page"
+    },
+    "JOIN_CLASS": {
+      "EMPTY": "Class code cannot be empty!",
+      "SUCCESS": "You have successfully joined the class",
+      "ERROR": "An error occurred while joining the class"
+    },
+    "MANAGE_INVITES": {
+      "DECLINE": {
+        "SUCCESS": "Class invitation successfully deleted",
+        "ERROR": "An error occurred while deleting the class invitation"
+      },
+      "ACCEPT": {
+        "SUCCESS": "Class invitation accepted!",
+        "ERROR": "An error occurred while accepting the class invitation"
+      }
+    },
+    "QUESTION_ITEM": {
+      "SUCCESS": "Question successfully deleted"
+    },
+    "ASSIGNMENT_DETAIL": {
+      "ASSIGNMENT_ERROR": "Assignment data could not be loaded",
+      "CLASS_ERROR": "Invalid Class",
+      "TEACHER_ERROR": "Teacher information could not be loaded",
+      "FILE_UPLOAD_ERROR": {
+        "MESSAGE": "File Upload Failed",
+        "CONTENT": "Please select a file to upload the assignment"
+      },
+      "ASSIGNMENT_NOT_LOAD": "Assignment could not be loaded",
+      "REMOVE_ASSIGNMENT": "Assignment successfully removed",
+      "REMOVE_ASSIGNMENT_ERROR": "An error occurred while removing the assignment",
+      "GRADING": "Artificial intelligence is grading, please wait...",
+      "GRADE_SUCCESS": "Assignment successfully uploaded and graded",
+      "GRADE_ERROR": "Assignment could not be graded",
+      "DOWNLOAD_ERROR": {
+        "MESSAGE": "File Download Failed",
+        "CONTENT": "Unable to access the uploaded assignment file"
+      },
+      "ASSIGNMENT_DOWNLOAD_ERROR": {
+        "MESSAGE": "File Download Failed",
+        "CONTENT": "Unable to access the assignment file"
+      },
+      "DELETE_SUCCESS": "Assignment successfully deleted",
+      "DELETE_ERROR": "An error occurred while deleting the assignment",
+      "DELETE_MODAL": {
+        "TITLE": "Assignment will be deleted, do you want to proceed?",
+        "CONTENT": "If you delete the assignment, uploaded assignments and, if any, the assignment file will also be deleted. Do you want to proceed?",
+        "OK": "Delete Assignment",
+        "CANCEL": "Cancel"
+      },
+      "LOAD_COMMENT_ERROR": "An error occurred while fetching comments",
+      "COMMENT": {
+        "EMPTY_MESSAGE": "Comment Cannot Be Empty",
+        "EMPTY_CONTENT": "Please write your comment",
+        "ERROR_MESSAGE": "An error occurred while adding the comment",
+        "ERROR_CONTENT": "Please try again.",
+        "SUCCESS": "Comment successfully added"
+      }
+    },
+    "LOGIN": {
+      "PASSWORD_ERROR": {
+        "MESSAGE": "Incorrect Password",
+        "CONTENT": "Your password must be at least 6 characters long, please check."
+      },
+      "SUCCESS": "Login process successfully completed",
+      "USER_NOT_FOUND_ERROR": {
+        "MESSAGE": "User Not Found",
+        "CONTENT": "No user record found for the entered information, please check."
+      },
+      "NAME_ERROR": {
+        "MESSAGE": "Incorrect Name",
+        "CONTENT": "Please enter your full name."
+      },
+      "REGISTER_SUCCESS": "Registration process successfully completed, welcome!",
+      "ALREADY_HAVE_USER": "A user with these credentials already exists in the system",
+      "SYSTEM_ERROR": "An error occurred in the system, please try again",
+      "ERROR": "Error"
+    },
+    "CLASS": {
+      "CLASS_ERROR": "An issue occurred with the class",
+      "TEACHER_ERROR": "Teacher Control Unavailable"
+    },
+    "NOTE_LIST": {
+      "NOTE_LIST_ERROR": "Note List Not Found",
+      "DOWNLOAD_ERROR": "Unable to Download Notes File"
+    },
+    "QUIZ": {
+      "SUCCESS": "Quiz Successfully Completed",
+      "ERROR": "An error occurred while completing the quiz",
+      "NOT_FOUNT": "Quiz Not Found",
+      "ENTRANCE_ERROR": "Quiz not available or has been entered before"
+    },
+    "QUIZ_CREATE": {
+      "CREATE_ERROR": {
+        "MESSAGE": "Invalid Quiz Creation Request",
+        "CONTENT": "Please check all questions and answers and try again."
+      },
+      "SUCCESS": "Quiz successfully published",
+      "ERROR": "An error occurred while publishing the quiz"
+    },
+    "QUIZ_NOTE_LIST": {
+      "NOTE_LIST_ERROR": "Note List Not Found",
+      "STUDENT_LIST_ERROR": "Student List Not Found"
+    },
+    "STUDENTS": {
+      "STUDENT_ERROR": "Student data could not be retrieved",
+      "TEACHER_ERROR": "Teacher data could not be retrieved",
+      "INVITE_SUCCESS": "Invitation successfully sent",
+      "INVITE_ERROR": "Invitation could not be sent",
+      "TYPE_ERROR": "User type information could not be retrieved"
+    }
+  },
+  "SIDEBAR":{
+    "MY_CLASSES": "My Classes",
+    "CREATE_CLASS": "Create Class",
+    "JOIN_CLASS": "Join Class",
+    "INVITATIONS": "Invitations",
+    "SETTINGS": "Settings",
+    "LOGOUT": "Log Out",
+    "CLASS":"Class",
+    "FLOW":"Flow",
+    "USERS": "Users",
+    "OBJECTIONS": "Objections",
+    "CLASS_FILES": "Class Files"
+  }
+}
