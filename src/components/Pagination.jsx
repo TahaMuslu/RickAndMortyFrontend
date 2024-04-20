@@ -56,15 +56,21 @@ const Pagination = ({ paginationInfo, setAllData, baseUrl, setLoading }) => {
     // "next": "https://rickandmortyapi.com/api/episode?page=2",
     // "prev": null
     return (
-        <div className='mt-4 mb-8 flex w-full justify-center items-center'>
-            <Button disabled={settings && !settings?.prev} className='mx-2' type='primary' onClick={handlePrev}>Previous</Button>
-            <span>{settings?.current} / {settings?.pages}</span>
-            <Button disabled={settings && !settings?.next} className='mx-2' type='primary' onClick={handleNext}>Next</Button>
-            <span className='ml-4'>Total: {settings?.count}</span>
-            <span className='ml-4'>
-                Go to page: &nbsp;
-                <input type='number' min='1' max={settings?.pages} className='border-2 border-gray-300 rounded-md p-1' defaultValue={settings?.current} onBlur={(e) => handleGoTo(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && handleGoTo(e.target.value)} />
-            </span>
+        <div className='mt-4 mb-8 flex w-full justify-between items-center'>
+            <div className='flex flex-1 justify-end'>
+                <span className='mr-4'>Total: {settings?.count}</span>
+            </div>
+            <div className='flex justify-center items-center'>
+                <Button disabled={settings && !settings?.prev} className='mx-2' type='primary' onClick={handlePrev}>Previous</Button>
+                <span>{settings?.current} / {settings?.pages}</span>
+                <Button disabled={settings && !settings?.next} className='mx-2' type='primary' onClick={handleNext}>Next</Button>
+            </div>
+            <div className='flex flex-1 justify-start items-center'>
+                <span className='ml-4'>
+                    Go to page: &nbsp;
+                    <input type='number' min='1' max={settings?.pages} className='border-2 border-gray-300 rounded-md p-1' defaultValue={settings?.current} onBlur={(e) => handleGoTo(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && handleGoTo(e.target.value)} />
+                </span>
+            </div>
         </div>
     );
 };

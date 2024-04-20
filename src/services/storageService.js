@@ -1,3 +1,4 @@
+
 class StorageService {
 
   getFavorites = () => {
@@ -22,16 +23,6 @@ class StorageService {
 
   clearFavorite = () => {
     localStorage.removeItem("favorites");
-  };
-
-  changeLanguage = (lang) => {
-    localStorage.setItem("rickandmorty-lang", lang);
-  };
-
-  getLanguage = () => {
-    const lang = localStorage.getItem("rickandmorty-lang");
-
-    return lang ? lang : "tr";
   };
 
 }

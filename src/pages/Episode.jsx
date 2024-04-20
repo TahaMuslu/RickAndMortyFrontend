@@ -62,10 +62,10 @@ const Episode = () => {
                             <h2 className='text-2xl w-fit mx-auto'><b>Air Date:</b> {data.air_date}</h2>
                         </Col>
                         <Col span={24} className='mb-12'>
-                            <h2 className='text-2xl w-fit mx-auto'><b>Number of characters:</b> {data.characters?.length ?? 0}</h2>
+                            <h2 className='text-2xl w-fit mx-auto'><b>Number of Characters:</b> {data.characters?.length ?? 0}</h2>
                         </Col>
                         {data.characters?.length !== 0 && <Col span={24} className='mb-12'>
-                            <h2 className='text-4xl w-fit mx-auto font-extrabold mb-2'>Characters from the episode:</h2>
+                            <h2 className='text-4xl w-fit mx-auto font-extrabold mb-2'>Characters from The Episode:</h2>
                             <Row justify={"center"}>
                                 {characters && characters.map((character) =>
                                     < CharacterCard key={character.id} item={character} loading={characterLoading} />

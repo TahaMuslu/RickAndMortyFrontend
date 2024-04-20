@@ -65,7 +65,7 @@ const Location = () => {
                             <h2 className='text-2xl w-fit mx-auto'><b>Dimension:</b> {data.dimension}</h2>
                         </Col>
                         <Col span={24} className='mb-12'>
-                            <h2 className='text-2xl w-fit mx-auto'><b>Number of residents:</b> {data.residents?.length ?? 0}</h2>
+                            <h2 className='text-2xl w-fit mx-auto'><b>Number of Residents:</b> {data.residents?.length ?? 0}</h2>
                         </Col>
                         {data.residents?.length !== 0 && <Col span={24} className='mb-12'>
                             <h2 className='text-4xl w-fit mx-auto font-extrabold mb-2'>Residents:</h2>

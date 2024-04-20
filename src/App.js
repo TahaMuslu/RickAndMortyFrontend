@@ -1,8 +1,6 @@
 import { ConfigProvider, notification } from 'antd';
 import { Suspense, useEffect } from 'react';
-import { useTranslation } from 'react-i18next';
-import { useDispatch, useSelector } from 'react-redux';
-import { getAntdLocale } from './helpers/helperFunctions';
+import { useSelector } from 'react-redux';
 import LoadingAnimation from './components/LoadingAnimation';
 import { ErrorBoundary } from 'react-error-boundary';
 import { Route, Routes, BrowserRouter as Router } from 'react-router-dom';
@@ -24,7 +22,6 @@ function App() {
 
   const notificationState = useSelector((state) => state.notification);
 
-  const { i18n } = useTranslation();
 
   useEffect(() => {
     if (
@@ -44,7 +41,7 @@ function App() {
     <>
       {notificationHolder}
       <ConfigProvider
-        locale={getAntdLocale(i18n.language)}
+        locale={"en_US"}
       >
         <ErrorBoundary FallbackComponent={Error}>
           <Suspense fallback={<LoadingAnimation />}>

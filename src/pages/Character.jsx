@@ -120,7 +120,7 @@ const Character = () => {
                             </Row>
                         </Col>
                         <Col span={24} className='mb-12'>
-                            <h2 className='text-2xl w-fit mx-auto'><b>Number of episodes played:</b> {data.episode?.length ?? 0}</h2>
+                            <h2 className='text-2xl w-fit mx-auto'><b>Number of Episodes Played:</b> {data.episode?.length ?? 0}</h2>
                         </Col>
                         {data.episode?.length !== 0 && <Col span={24} className='mb-12'>
                             <h2 className='text-4xl w-fit mx-auto font-extrabold mb-2'>Played in Episodes:</h2>

@@ -4,6 +4,7 @@ import { Outlet, useNavigate } from 'react-router';
 
 const Navbar = () => {
     const navigate = useNavigate();
+
     return (
         <>
             <nav className="flex justify-between items-center bg-gray-800 text-white p-4">
