@@ -3,7 +3,7 @@ import favoriteReducer from "./favoriteReducer";
 import notificationReducer from "./notificationReducer";
 
 const rootReducer = combineReducers({
-  favorite: favoriteReducer,
+  favorites: favoriteReducer,
   notification: notificationReducer
 });
 

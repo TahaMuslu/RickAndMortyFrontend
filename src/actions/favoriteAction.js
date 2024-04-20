@@ -9,15 +9,15 @@ export const addFavorite = (favorite) => {
     storageService.addFavorite(favorite);
     return {
         type: ADD_FAVORITE,
-        payload: favorite
+        payload: favorite,
     };
 };
 
-export const deleteFavorite = (favorite) => {
-    storageService.deleteFavorite(favorite);
+export const deleteFavorite = (favoriteId) => {
+    storageService.deleteFavorite(favoriteId);
     return {
         type: DELETE_FAVORITE,
-        payload: favorite
+        payload: favoriteId
     };
 };
 

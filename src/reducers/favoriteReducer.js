@@ -7,13 +7,14 @@ const favoriteReducer = (state = initialState, action) => {
 
     switch (action.type) {
         case ADD_FAVORITE:
-            storageService.addFavorite(action.payload);
+            if (state.some((favorite) => favorite.id === action.payload.id))
+                return state;
+            if (state.length >= 10)
+                return state;
             return [...state, action.payload];
         case DELETE_FAVORITE:
-            storageService.deleteFavorite(action.payload);
-            return state.filter((favorite) => favorite.id !== action.payload.id);
+            return state.filter((favorite) => favorite.id !== action.payload);
         case CLEAR_FAVORITE:
-            storageService.clearFavorite(action.payload);
             return [];
         default:
             return state;

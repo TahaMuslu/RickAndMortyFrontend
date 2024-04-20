@@ -14,9 +14,9 @@ class StorageService {
     localStorage.setItem("favorites", JSON.stringify(favorites));
   };
 
-  deleteFavorite = (favorite) => {
+  deleteFavorite = (favoriteId) => {
     var favorites = this.getFavorites();
-    var newFavorites = favorites.filter((f) => f.id !== favorite.id);
+    var newFavorites = favorites.filter((f) => f.id !== favoriteId);
     localStorage.setItem("favorites", JSON.stringify(newFavorites));
   };
 
